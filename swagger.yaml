@@ -2,7 +2,7 @@
 swagger: "2.0"
   info: 
     title: "Golang API project"
-    version: "1.0"
+    version: "1.0.5"
   tags: 
     - 
       name: "AuthService"
